@@ -1,8 +1,0 @@
-# Codebook
-
-
-## Columns
-n<-names(data_means)
-for(i in 1:length(n)){
-  print(n[i])
-}
