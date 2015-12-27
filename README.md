@@ -1,6 +1,7 @@
 # Readme to explain data extraction and tidy choices
 
 The code
+
 1. gets labels from the activity_labels.txt and features.txt files
 2. reads the measurements selecting only the mean and standard deviations
 3. combines the measurements into a single dataframe
